@@ -7,9 +7,6 @@ Below are the instructions for viewing the homepage:
 OPTION 1: VIEW ONLINE VIA GITHUB PAGES
 --------------------------------------
 1. Open this URL in any web browser:  https://asmahachicha.github.io/
-
-2. The website will load directly, and you can interact with all the features.
-
 ---
 
 OPTION 2: OPEN LOCALLY FROM ZIP FILE
