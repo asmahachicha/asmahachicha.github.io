@@ -5,8 +5,8 @@ document.getElementById("contactForm").addEventListener("submit", function(event
     const message = document.getElementById("message").value;
 
     if (name && message) {
-        alert(`Thank you, ${name}! Your message has been received.`);
+        alert(`Thank you, ${name}! Your message has been sent.`);
     } else {
-        alert("Please fill out all fields.");
+        alert("Please fill out all boxes.");
     }
 });
